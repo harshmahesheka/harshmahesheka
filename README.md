@@ -23,4 +23,4 @@ My name is Harsh Mahesheka just another guy who is in love with robots. I am ver
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshmahesheka&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 <br/>**Thanks for contributing to this =>**
-![](https://komarev.com/ghpvc/?username=hex-plex&color=red)
+![](https://komarev.com/ghpvc/?username=harshmahesheka&color=red)
