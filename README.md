@@ -2,7 +2,7 @@
 
 ### About me
 My name is Harsh Mahesheka just another guy who is in love with robots. I am very interested in Robotics and related fields like Autonomus Navigation,Robot Operating System and Robot Learning. Besides this I enjoy clash of arguments in the form of debates. 
-- 🌱 I’m currently learning Robot Controls and Navigation,Path Planning and ROS.
+- 🌱 I’m currently learning Robot Controls and Navigation,Path Planning and ROS/ROS2.
 - 👯 I’m looking to collaborate on Robotics Projects of any kind.
 - 💬 Ask me about Life.
 - 📫 How to reach me: harsh[dot]mahesheka[dot]eee20[at]iitbhu[dot]ac[dot]in mail is the prefered way to contact me.
