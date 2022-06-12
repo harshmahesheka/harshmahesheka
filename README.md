@@ -14,7 +14,6 @@ My name is Harsh Mahesheka just another guy who is in love with robots. I am ver
 <img src="https://answers.ros.org/upfiles/14554624266871161.png" width="40" height="40" />
 <img src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="40" height="40" />
-<img src="https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg" width="40" height="40" />
 <img src="https://github.com/github/explore/raw/main/topics/raspberry-pi/raspberry-pi.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/main/topics/r/r.png" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" width="40" height="40" /> 
