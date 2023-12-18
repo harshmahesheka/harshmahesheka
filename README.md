@@ -1,7 +1,7 @@
 ## Hi There 👋,
 
 ### About me
-My name is Harsh Mahesheka just another guy who is in love with robots. I am interested in Robotics and related fields like Autonomus Navigation and Robot Learning. Besides this I enjoy clash of arguments in the form of debates. 
+My name is Harsh Mahesheka just another guy who is in love with robots. I am interested in Robotics and related fields like Robotics and Machine Learning. Besides this I enjoy clash of arguments in the form of debates. 
 - 🌱 I’m currently learning anything I find on robotics.
 - 👯 I’m looking to collaborate on Robotics Projects of any kind.
 - 💬 Ask me about Life.
